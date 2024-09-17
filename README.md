@@ -1,12 +1,12 @@
 # sneaker_market_making
-QuantSC Project Spring 2024 Contributors (name and github handle):
-Jake Grigorian @jgrigorian23
-Chris Fernandes @cpfernan704
-Emma Xiang @emmayxiang
-Neel Sahni @neelsahni
-Jerry Zhang @jerryznr99
-Richard Peng @notrichardpeng
-Aishu Sivamurugan @eyeshoe
+QuantSC Project Spring 2024 Contributors (name and github handle): < br / >
+Jerry Zhang @jerryznr99 < br / >
+Jake Grigorian @jgrigorian23 < br / >
+Chris Fernandes @cpfernan704 < br / >
+Emma Xiang @emmayxiang < br / >
+Neel Sahni @neelsahni < br / >
+Richard Peng @notrichardpeng < br / >
+Aishu Sivamurugan @eyeshoe < br / >
 
 ## Here are some whitepapers to take a look at:
 [Predicting Sneaker Resale Prices using Machine Learning](https://www.researchgate.net/publication/349490187_Predicting_Sneaker_Resale_Prices_using_Machine_Learning)
