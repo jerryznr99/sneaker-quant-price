@@ -1,5 +1,6 @@
 # sneaker_market_making
-QuantSC Project Spring 2024 Contributors (name and github handle): < br / >
+QuantSC Project Spring 2024 Contributors (name and github handle): 
+<br/>
 Jerry Zhang @jerryznr99 < br / >
 Jake Grigorian @jgrigorian23 < br / >
 Chris Fernandes @cpfernan704 < br / >
