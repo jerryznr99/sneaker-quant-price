@@ -1,5 +1,12 @@
 # sneaker_market_making
-QuantSC project spring 2024
+QuantSC Project Spring 2024 Contributors (name and github handle):
+Jake Grigorian @jgrigorian23
+Chris Fernandes @cpfernan704
+Emma Xiang @emmayxiang
+Neel Sahni @neelsahni
+Jerry Zhang @jerryznr99
+Richard Peng @notrichardpeng
+Aishu Sivamurugan @eyeshoe
 
 ## Here are some whitepapers to take a look at:
 [Predicting Sneaker Resale Prices using Machine Learning](https://www.researchgate.net/publication/349490187_Predicting_Sneaker_Resale_Prices_using_Machine_Learning)
@@ -9,10 +16,12 @@ QuantSC project spring 2024
 [StockX Data Contest (2019)](https://stockx.com/news/the-2019-data-contest/)
 
 
-## Indicators we'd like to have
+## Indicators (includes indicators used in intermediate stages for clarity)
 * time
 * spread
-* size
+* shoe size
 * retail price
+* sale price
+* shoe release date
 * sentiment analysis to predict volatility
-* hype/presale activity
+* relative interest (hype/presale activity)
